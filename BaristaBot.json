@@ -1,0 +1,22 @@
+
+{
+	"origin": ["Gimmie a #size# #prefixes# #drinktype##latte# with #sugarcount# #finalbits#!"],
+	"latte":[" latte",""],
+	"categories":["coffee", "tea"],
+	"size":["small", "medium", "large"],
+	"prefixes":["double shot", "soy", "skim", "skinny", "decaf", "strong", "extra hot", "weak"],
+	"coffeetypes":["flat white", "americano", "cappucino", "latte", "long black", "short black", "piccolo", "machiato","turkish coffee","cold brew coffee","vacuum coffee","instant coffee","cafe cubano","caffe creama","cafe zorro",
+	"guillermo","ristretto","lungo","iced coffee","breve","antoccino","cafe bombon",
+"caffee gommosa","kopi susi"],
+	"teatypes":["chai tea", "green tea", "english breakfast tea", "french earl grey tea", "russian caravan tea", "black tea", "white tea","oolong tea","yellow tea","fermented tea","ginger tea","neem tea","rooibos tea","jasmine tea","lemongrass tea",
+	"yerba mate tea", "first flush tea", "peppermint tea", "chamomile tea"],
+	"finalbits":["with a small cup of cold milk", "with a love heart on top", "with an anecdote about your father", "in a large mug", "in a small cup", "in a man's hat", "in a lady's hat", "in a hat", "in a shoe", "without delay", "but do it slowly", 
+	"but tell me it's a hot chocolate", "but don't judge me", "and judge me for it", "with spit in it", "with the wrong name on it", "in my keep cup", "in someone else's keep cup", "with sarcasm",
+	"and pay it forward", "with an extra coffee", "but disregard my order entirely", "with nose hair attached", "with room for milk", "with honey",
+	"with a shot of whiskey", "with a shot of whisky"],
+	"sugarcount":["no sugar", "1 sugar", "2 sugars", "3 sugars", "1 artificial sweetner", "2 artificial sweetners", "3 artificial sweetners"],
+	"drinktype":["#coffeetypes#","#teatypes#"]
+}
+
+
+
